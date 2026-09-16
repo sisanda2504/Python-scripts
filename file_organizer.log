@@ -1,0 +1,6 @@
+2026-09-16 17:54:10,958 - INFO - Started organizing folder: Week_3_Troubleshooting\TestFiles
+2026-09-16 17:54:10,974 - INFO - Moved picture.jpg to Images
+2026-09-16 17:54:10,974 - INFO - Moved program.py to Python_Files
+2026-09-16 17:54:10,981 - INFO - Moved report.pdf to Documents
+2026-09-16 17:54:10,984 - INFO - Moved users.csv to Spreadsheets
+2026-09-16 17:54:10,986 - INFO - Organization completed. 4 file(s) moved.
