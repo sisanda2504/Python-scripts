@@ -1,0 +1,224 @@
+"TimeCreated","ProviderName","Id","LevelDisplayName","Message"
+"2026/09/21 10:11:48","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/21 10:11:48","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/21 09:30:01","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/21 09:30:01","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/21 09:15:38","Microsoft-Windows-Time-Service","134","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)"
+"2026/09/21 09:15:37","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/21 09:15:37","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/21 09:15:37","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/21 09:15:37","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/20 15:44:13","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop."
+"2026/09/20 15:43:51","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop."
+"2026/09/20 15:43:40","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/20 15:43:40","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/20 15:17:24","Microsoft-Windows-Time-Service","134","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)"
+"2026/09/20 15:17:23","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/20 15:17:23","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/20 15:17:23","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/20 15:17:23","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/19 19:36:27","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/19 19:36:27","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/19 17:57:40","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user Shorty\sisan SID (S-1-5-21-1516121566-3568823032-547977885-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3529589627-2843758322-1260909081-3797121170-2959094787-2505556716-1504761950). This security permission can be modified using the Component Services administrative tool."
+"2026/09/19 16:07:44","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80240016: 9NRZT3Q9R3DL-Microsoft.WindowsAppRuntime.2."
+"2026/09/19 16:03:51","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop."
+"2026/09/19 15:06:25","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/19 15:06:25","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/19 15:06:25","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/19 15:06:25","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 21:44:25","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 21:44:25","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 19:31:05","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user Shorty\sisan SID (S-1-5-21-1516121566-3568823032-547977885-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 19:19:49","Microsoft-Windows-DNS-Client","1014","Warning","Name resolution for the name v10.events.data.microsoft.com timed out after none of the configured DNS servers responded. Client PID 4136."
+"2026/09/17 19:17:13","Microsoft-Windows-Time-Service","134","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)"
+"2026/09/17 19:17:13","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 19:17:13","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 16:14:18","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 16:14:18","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 16:13:43","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 16:13:43","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 14:04:10","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 14:04:10","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 13:53:38","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user Shorty\sisan SID (S-1-5-21-1516121566-3568823032-547977885-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 13:53:26","Microsoft-Windows-DistributedCOM","10016","Warning","The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 13:53:26","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 13:53:26","Microsoft-Windows-DistributedCOM","10016","Warning","The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 13:53:26","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 13:51:57","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 13:51:57","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 09:19:11","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 09:19:11","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/17 09:00:28","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user Shorty\sisan SID (S-1-5-21-1516121566-3568823032-547977885-1001) from address LocalHost (Using LRPC) running in the application container MSTeams_26225.1806.5074.1452_x64__8wekyb3d8bbwe SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x11a4fda8 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0xca2f760 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0xca2f638 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0xf20d998 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x1870e820 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x157a8b60 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0xf7eb920 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/17 08:56:34","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x57fdaf8 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x8372368 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x589d18 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x25ed468 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x8fc8900 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x2d4e6b0 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","disk","153","Warning","The IO operation at logical block address 0x86a0ec0 for Disk 0 (PDO name: \Device\00000045) was retried."
+"2026/09/17 08:56:34","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/17 08:56:34","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/16 21:26:56","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/16 21:26:56","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/16 19:38:51","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscDataProtection
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/16 19:38:50","Microsoft-Windows-DistributedCOM","10016","Warning","The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{9EA82395-E31B-41CA-8DF7-EC1CEE7194DF}
+ and APPID 
+{2ED83BAA-B2FD-43B1-99BF-E6149C622692}
+ to the user NT AUTHORITY\NETWORK SERVICE SID (S-1-5-20) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+"2026/09/16 19:37:52","Microsoft-Windows-Kernel-Processor-Power","37","Warning","The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report."
+"2026/09/16 19:36:43","Microsoft-Windows-Kernel-PnP","219","Warning","The driver \Driver\WUDFRd failed to load.
+Device: INTELAUDIO\DIF_0000&UIF_0000&CTLR_DEV_51C8&VEN_8086&DetectionVerification\5&1039e2b4&0&DIF_000A&UIF_0000
+Status: 0xC0000365"
+"2026/09/16 19:36:39","Microsoft-Windows-Kernel-PnP","219","Warning","The driver \Driver\WUDFRd failed to load.
+Device: PCI\VEN_8086&DEV_461D&SUBSYS_16331043&REV_04\3&11583659&0&20
+Status: 0xC0000365"
+"2026/09/16 19:36:36","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 19:36:36","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 19:36:35","Microsoft-Windows-Hyper-V-Hypervisor","167","Warning","The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading."
+"2026/09/16 19:36:03","Service Control Manager","7024","Error","The Background Intelligent Transfer Service service terminated with the following service-specific error: 
+A system shutdown is in progress. "
+"2026/09/16 19:36:03","Microsoft-Windows-Bits-Client","16392","Error","The BITS service failed to start.  Error 0x8007045B."
+"2026/09/16 19:36:02","Microsoft-Windows-WLAN-AutoConfig","10002","Warning","WLAN Extensibility Module has stopped.
+
+Module Path: C:\WINDOWS\system32\mtkihvx.dll
+"
+"2026/09/16 19:35:45","Microsoft-Windows-Kernel-PnP","219","Warning","The driver \Driver\WUDFRd failed to load.
+Device: INTELAUDIO\DIF_0000&UIF_0000&CTLR_DEV_51C8&VEN_8086&DetectionVerification\5&1039e2b4&0&DIF_000A&UIF_0000
+Status: 0xC0000365"
+"2026/09/16 19:35:42","Microsoft-Windows-Kernel-PnP","219","Warning","The driver \Driver\WUDFRd failed to load.
+Device: PCI\VEN_8086&DEV_461D&SUBSYS_16331043&REV_04\3&11583659&0&20
+Status: 0xC0000365"
+"2026/09/16 19:35:38","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 19:35:38","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 19:35:37","Microsoft-Windows-Hyper-V-Hypervisor","167","Warning","The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading."
+"2026/09/16 19:35:03","Microsoft-Windows-WLAN-AutoConfig","10002","Warning","WLAN Extensibility Module has stopped.
+
+Module Path: C:\WINDOWS\system32\mtkihvx.dll
+"
+"2026/09/16 19:34:23","Microsoft-Windows-Kernel-PnP","219","Warning","The driver \Driver\WUDFRd failed to load.
+Device: INTELAUDIO\DIF_0000&UIF_0000&CTLR_DEV_51C8&VEN_8086&DetectionVerification\5&1039e2b4&0&DIF_000A&UIF_0000
+Status: 0xC0000365"
+"2026/09/16 19:34:20","Microsoft-Windows-Kernel-PnP","219","Warning","The driver \Driver\WUDFRd failed to load.
+Device: PCI\VEN_8086&DEV_461D&SUBSYS_16331043&REV_04\3&11583659&0&20
+Status: 0xC0000365"
+"2026/09/16 19:34:17","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 19:34:17","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 19:34:16","Microsoft-Windows-Hyper-V-Hypervisor","167","Warning","The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading."
+"2026/09/16 19:33:43","Microsoft-Windows-WLAN-AutoConfig","10002","Warning","WLAN Extensibility Module has stopped.
+
+Module Path: C:\WINDOWS\system32\mtkihvx.dll
+"
+"2026/09/16 19:33:29","Microsoft-Windows-DistributedCOM","10010","Error","The server Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy!Windows.Security.Authentication.Web.Core.BackgroundGetTokenTask.ClassId.WebAccountProvider did not register with DCOM within the required timeout."
+"2026/09/16 19:33:29","winsrvext","100","Warning","Process C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is delaying system shutdown after 500 milliseconds."
+"2026/09/16 19:33:29","winsrvext","101","Warning","Process C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe from package 5319275A.WhatsAppDesktop_2.2632.100.0_x64__cv1g1gvanyjgm is delaying system shutdown after 500 milliseconds."
+"2026/09/16 19:33:29","winsrvext","100","Warning","Process C:\Program Files\Google\Chrome\Application\chrome.exe is delaying system shutdown after 500 milliseconds."
+"2026/09/16 19:33:29","winsrvext","100","Warning","Process C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is delaying system shutdown after 500 milliseconds."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:27","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 19:33:26","Microsoft-Windows-DistributedCOM","10010","Error","The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout."
+"2026/09/16 18:37:17","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/16 18:37:17","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/16 18:19:49","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/16 18:19:49","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/16 18:18:45","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone."
+"2026/09/16 18:17:27","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice."
+"2026/09/16 17:47:36","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop."
+"2026/09/16 16:20:40","Microsoft-Windows-Time-Service","134","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)"
+"2026/09/16 16:20:39","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 16:20:39","Microsoft-Windows-BitLocker-Driver","24641","Error","An unexpected error was encountered attempting to retrieve the BitLocker volume master key during restart."
+"2026/09/16 16:20:39","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/16 16:20:39","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 23:51:46","Microsoft-Windows-Time-Service","134","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)"
+"2026/09/14 18:22:25","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 18:22:25","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 17:09:35","Microsoft-Windows-DNS-Client","1014","Warning","Name resolution for the name chatgpt.com timed out after none of the configured DNS servers responded. Client PID 20700."
+"2026/09/14 16:55:50","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 16:55:50","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 16:02:52","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 16:02:52","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 15:59:01","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 15:59:01","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 14:30:14","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop."
+"2026/09/14 14:03:24","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 14:03:24","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 13:59:55","Microsoft-Windows-WindowsUpdateClient","20","Error","Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop."
+"2026/09/14 13:59:10","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 13:59:10","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 12:54:14","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 12:54:14","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 12:53:43","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 12:53:43","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 12:01:54","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 12:01:54","Win32k","700","Warning","Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)"
+"2026/09/14 11:57:44","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+"2026/09/14 11:57:44","Win32k","701","Warning","Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"

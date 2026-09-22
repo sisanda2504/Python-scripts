@@ -1,0 +1,14 @@
+PRIVACY NOTE
+
+This collector intentionally does NOT collect:
+- saved passwords
+- browser history
+- browser cookies
+- Wi-Fi passwords
+- the Windows Security event log
+- environment variables
+- contents of personal documents
+
+Application/System event messages can still contain usernames, file paths,
+application names, or other machine-specific details. Review the evidence
+files before sharing them.

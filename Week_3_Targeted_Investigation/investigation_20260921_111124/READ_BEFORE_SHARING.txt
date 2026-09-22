@@ -1,0 +1,14 @@
+READ BEFORE SHARING
+
+This investigation is read-only. It does not repair disks, uninstall drivers,
+change Wi-Fi settings, modify startup programs, or install updates.
+
+It intentionally avoids collecting:
+- Wi-Fi SSIDs and passwords
+- saved passwords
+- browser history/cookies
+- personal document contents
+- Security event logs
+
+Event messages may still contain local application paths or computer-specific
+details. Review the generated files before sharing.

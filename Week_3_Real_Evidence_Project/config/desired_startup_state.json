@@ -1,0 +1,14 @@
+{
+  "policy_name": "Week 3 startup desired state",
+  "exclusive_groups": [
+    {
+      "name": "Microsoft Teams startup",
+      "match_any": [
+        "com.squirrel.Teams.Teams",
+        "ms-teams.exe"
+      ],
+      "max_entries": 1,
+      "recommendation": "Review the legacy Squirrel Teams startup entry and the newer packaged Teams entry. Keep only the entry that matches the installed Teams version."
+    }
+  ]
+}

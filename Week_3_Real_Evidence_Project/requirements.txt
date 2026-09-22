@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# The project intentionally uses the Python standard library for portability.

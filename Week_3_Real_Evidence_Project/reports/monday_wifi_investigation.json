@@ -1,0 +1,82 @@
+{
+  "investigation": "ASUS WiFi SmartConnect / MediaTek WLAN event correlation",
+  "crashes_analyzed": 5,
+  "wlan_events_analyzed": 14,
+  "correlation_window_seconds": 2,
+  "correlated_crashes": 5,
+  "correlation_rate_percent": 100.0,
+  "unique_crash_signatures": [
+    {
+      "version": "1.0.4.0",
+      "exception_code": "0xc0000005",
+      "fault_offset": "0x00000000000069c9"
+    }
+  ],
+  "wifi_driver": {
+    "DeviceName": "MediaTek Wi-Fi 6E MT7902 Wireless LAN Card",
+    "Manufacturer": "MediaTek, Inc.",
+    "DriverProviderName": "MediaTek, Inc.",
+    "DriverVersion": "3.4.2.1304",
+    "DriverDate": "2025/06/30 02:00:00",
+    "InfName": "oem153.inf",
+    "IsSigned": "True"
+  },
+  "correlations": [
+    {
+      "crash_time": "2026-09-16 19:36:02",
+      "application": "AsusWiFiSmartConnect.exe",
+      "version": "1.0.4.0",
+      "exception_code": "0xc0000005",
+      "fault_offset": "0x00000000000069c9",
+      "correlated": true,
+      "wlan_time": "2026-09-16 19:36:02",
+      "wlan_event_id": "10002",
+      "time_difference_seconds": 0.0
+    },
+    {
+      "crash_time": "2026-09-10 14:51:26",
+      "application": "AsusWiFiSmartConnect.exe",
+      "version": "1.0.4.0",
+      "exception_code": "0xc0000005",
+      "fault_offset": "0x00000000000069c9",
+      "correlated": true,
+      "wlan_time": "2026-09-10 14:51:27",
+      "wlan_event_id": "10002",
+      "time_difference_seconds": 1.0
+    },
+    {
+      "crash_time": "2026-08-30 15:02:02",
+      "application": "AsusWiFiSmartConnect.exe",
+      "version": "1.0.4.0",
+      "exception_code": "0xc0000005",
+      "fault_offset": "0x00000000000069c9",
+      "correlated": true,
+      "wlan_time": "2026-08-30 15:02:03",
+      "wlan_event_id": "10002",
+      "time_difference_seconds": 1.0
+    },
+    {
+      "crash_time": "2026-08-26 19:17:08",
+      "application": "AsusWiFiSmartConnect.exe",
+      "version": "1.0.4.0",
+      "exception_code": "0xc0000005",
+      "fault_offset": "0x00000000000069c9",
+      "correlated": true,
+      "wlan_time": "2026-08-26 19:17:09",
+      "wlan_event_id": "10002",
+      "time_difference_seconds": 1.0
+    },
+    {
+      "crash_time": "2026-08-26 19:16:02",
+      "application": "AsusWiFiSmartConnect.exe",
+      "version": "1.0.4.0",
+      "exception_code": "0xc0000005",
+      "fault_offset": "0x00000000000069c9",
+      "correlated": true,
+      "wlan_time": "2026-08-26 19:16:03",
+      "wlan_event_id": "10002",
+      "time_difference_seconds": 1.0
+    }
+  ],
+  "finding": "Repeated near-simultaneous ASUS SmartConnect crashes and WLAN module stops form a reproducible incident pattern. This supports a strong relationship hypothesis but does not, by itself, prove causation."
+}

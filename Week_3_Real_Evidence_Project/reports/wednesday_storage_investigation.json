@@ -1,0 +1,111 @@
+{
+  "historical_evidence": {
+    "total_events": 493,
+    "event_ids": {
+      "153": 493
+    },
+    "events_by_date": {
+      "2026-08-23": 66,
+      "2026-08-24": 80,
+      "2026-08-27": 59,
+      "2026-08-31": 79,
+      "2026-09-08": 55,
+      "2026-09-13": 77,
+      "2026-09-14": 63,
+      "2026-09-17": 14
+    },
+    "largest_bursts": [
+      {
+        "timestamp": "2026-08-24 08:58:43",
+        "retry_events": 80
+      },
+      {
+        "timestamp": "2026-08-31 22:00:05",
+        "retry_events": 79
+      },
+      {
+        "timestamp": "2026-09-13 12:31:27",
+        "retry_events": 77
+      },
+      {
+        "timestamp": "2026-08-23 07:39:07",
+        "retry_events": 66
+      },
+      {
+        "timestamp": "2026-09-14 08:59:04",
+        "retry_events": 63
+      },
+      {
+        "timestamp": "2026-08-27 08:55:57",
+        "retry_events": 59
+      },
+      {
+        "timestamp": "2026-09-08 01:41:11",
+        "retry_events": 55
+      },
+      {
+        "timestamp": "2026-09-17 08:56:34",
+        "retry_events": 14
+      }
+    ]
+  },
+  "disk_inventory": [
+    {
+      "Number": "0",
+      "FriendlyName": "NVMe HFS512GEJ9X108N",
+      "SerialNumber": "5YD5N018611305L1D   _00000001.",
+      "BusType": "NVMe",
+      "HealthStatus": "Healthy",
+      "OperationalStatus": "Online",
+      "PartitionStyle": "GPT",
+      "SizeGB": "476,94"
+    }
+  ],
+  "reliability_snapshot": [
+    {
+      "FriendlyName": "NVMe HFS512GEJ9X108N",
+      "HealthStatus": "Healthy",
+      "OperationalStatus": "OK",
+      "Temperature": "Unavailable",
+      "TemperatureMax": "Unavailable",
+      "Wear": "Unavailable",
+      "PowerOnHours": "Unavailable",
+      "ReadErrorsTotal": "Unavailable",
+      "ReadErrorsUncorrected": "Unavailable",
+      "WriteErrorsTotal": "Unavailable",
+      "WriteErrorsUncorrected": "Unavailable"
+    }
+  ],
+  "current_io_benchmark": {
+    "runs": [
+      {
+        "run": 1,
+        "size_mb": 64,
+        "write_seconds": 0.0506,
+        "write_mb_per_sec": 1263.98,
+        "read_seconds": 0.0246,
+        "read_mb_per_sec": 2597.36
+      },
+      {
+        "run": 2,
+        "size_mb": 64,
+        "write_seconds": 0.0633,
+        "write_mb_per_sec": 1010.41,
+        "read_seconds": 0.0256,
+        "read_mb_per_sec": 2498.51
+      },
+      {
+        "run": 3,
+        "size_mb": 64,
+        "write_seconds": 0.0532,
+        "write_mb_per_sec": 1203.17,
+        "read_seconds": 0.0226,
+        "read_mb_per_sec": 2835.82
+      }
+    ],
+    "average_write_mb_per_sec": 1159.19,
+    "average_read_mb_per_sec": 2643.9,
+    "note": "This is a small controlled current-performance baseline. It does not reproduce or prove the historical cause of Event ID 153 retries."
+  },
+  "interpretation": "The laptop recorded repeated storage retry events despite Windows reporting the NVMe drive as healthy/online. That establishes a reliability incident, but does not prove physical disk failure. The controlled benchmark provides a current baseline only."
+}

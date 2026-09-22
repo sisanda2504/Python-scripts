@@ -1,0 +1,56 @@
+"TimeCreated","Id","LevelDisplayName","Message"
+"2026/09/16 19:36:02","1000","Error","Faulting application name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Faulting module name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Exception code: 0xc0000005
+Fault offset: 0x00000000000069c9
+Faulting process id: 0xCFC
+Faulting application start time: 0x1DD4601D0F808E5
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusWiFiSmartConnect.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusWiFiSmartConnect.exe
+Report Id: c9c5eb9e-f5a8-4801-bb9f-e74ab367f789
+Faulting package full name: 
+Faulting package-relative application ID: "
+"2026/09/10 14:51:26","1000","Error","Faulting application name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Faulting module name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Exception code: 0xc0000005
+Fault offset: 0x00000000000069c9
+Faulting process id: 0xFFC
+Faulting application start time: 0x1DD41230FEBB5DA
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusWiFiSmartConnect.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusWiFiSmartConnect.exe
+Report Id: ba0f0b7f-1452-4ab0-b1d0-af13352ce685
+Faulting package full name: 
+Faulting package-relative application ID: "
+"2026/08/30 15:02:02","1000","Error","Faulting application name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Faulting module name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Exception code: 0xc0000005
+Fault offset: 0x00000000000069c9
+Faulting process id: 0xFF4
+Faulting application start time: 0x1DD387FB6F34455
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusWiFiSmartConnect.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusWiFiSmartConnect.exe
+Report Id: c7c6e0e7-9da2-4f08-b2ca-1e92e0efdb99
+Faulting package full name: 
+Faulting package-relative application ID: "
+"2026/08/26 19:17:08","1000","Error","Faulting application name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Faulting module name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Exception code: 0xc0000005
+Fault offset: 0x00000000000069c9
+Faulting process id: 0xCB0
+Faulting application start time: 0x1DD357EAECC666B
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_40d9f1ecf566b220\ASUSOptimization\AsusWiFiSmartConnect.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_40d9f1ecf566b220\ASUSOptimization\AsusWiFiSmartConnect.exe
+Report Id: 361fbf85-0168-4b0d-bee3-e8508a3ece6a
+Faulting package full name: 
+Faulting package-relative application ID: "
+"2026/08/26 19:16:02","1000","Error","Faulting application name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Faulting module name: AsusWiFiSmartConnect.exe, version: 1.0.4.0, time stamp: 0x68e5d716
+Exception code: 0xc0000005
+Fault offset: 0x00000000000069c9
+Faulting process id: 0x1134
+Faulting application start time: 0x1DD357E74CD6B1C
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_40d9f1ecf566b220\ASUSOptimization\AsusWiFiSmartConnect.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_40d9f1ecf566b220\ASUSOptimization\AsusWiFiSmartConnect.exe
+Report Id: 4a5205c3-ec84-4570-b639-ee7b91d6f5d4
+Faulting package full name: 
+Faulting package-relative application ID: "

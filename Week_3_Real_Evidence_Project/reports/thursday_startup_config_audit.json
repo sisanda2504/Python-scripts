@@ -1,0 +1,35 @@
+{
+  "startup_entries_analyzed": 8,
+  "status": "NON_COMPLIANT",
+  "non_compliant_findings": 1,
+  "findings": [
+    {
+      "type": "DUPLICATE_STARTUP_GROUP",
+      "group": "Microsoft Teams startup",
+      "status": "NON_COMPLIANT",
+      "found": 2,
+      "allowed": 1,
+      "entries": [
+        {
+          "name": "com.squirrel.Teams.Teams",
+          "command": "C:\\Users\\sisan\\AppData\\Local\\Microsoft\\Teams\\Update.exe --processStart \"Teams.exe\" --process-start-args \"--system-initiated\"",
+          "location": "HKU\\S-1-5-21-1516121566-3568823032-547977885-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+          "name": "Teams",
+          "command": "\"C:\\Users\\sisan\\AppData\\Local\\Microsoft\\WindowsApps\\MSTeams_8wekyb3d8bbwe\\ms-teams.exe\" msteams:system-initiated",
+          "location": "HKU\\S-1-5-21-1516121566-3568823032-547977885-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+        }
+      ],
+      "recommendation": "Review the legacy Squirrel Teams startup entry and the newer packaged Teams entry. Keep only the entry that matches the installed Teams version."
+    }
+  ],
+  "remediation_plan": [
+    {
+      "group": "Microsoft Teams startup",
+      "action": "REVIEW_AND_DISABLE_REDUNDANT_ENTRY",
+      "reason": "2 startup entries detected; desired maximum is 1.",
+      "important": "This project intentionally generates a plan only. It does not edit the Windows Registry or disable startup apps automatically."
+    }
+  ]
+}

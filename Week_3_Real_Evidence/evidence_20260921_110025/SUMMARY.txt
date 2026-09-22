@@ -1,0 +1,16 @@
+WINDOWS TROUBLESHOOTING EVIDENCE COLLECTION
+Generated: 2026-09-21T11:00:50
+
+Evidence directory:
+C:\Users\sisan\OneDrive - UVU Africa\Python_Utilities_Pack\Week_3_Real_Evidence\evidence_20260921_110025
+
+Collection status:
+- system_snapshot.txt: OK
+- developer_toolchain.txt: OK
+- application_events_last7days.csv: OK
+- system_events_last7days.csv: OK
+- automatic_services_not_running.csv: OK
+- scheduled_tasks_nonzero_result.csv: OK
+- top_memory_processes.csv: OK
+- network_adapters.csv: OK
+- startup_items.csv: OK

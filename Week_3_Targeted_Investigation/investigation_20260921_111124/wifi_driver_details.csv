@@ -1,0 +1,4 @@
+"DeviceName","Manufacturer","DriverProviderName","DriverVersion","DriverDate","InfName","IsSigned"
+"Microsoft Wi-Fi Direct Virtual Adapter","Microsoft","Microsoft","10.0.26100.8972","2006/06/21 02:00:00","netvwifimp.inf","True"
+"Microsoft Wi-Fi Direct Virtual Adapter","Microsoft","Microsoft","10.0.26100.8972","2006/06/21 02:00:00","netvwifimp.inf","True"
+"MediaTek Wi-Fi 6E MT7902 Wireless LAN Card","MediaTek, Inc.","MediaTek, Inc.","3.4.2.1304","2025/06/30 02:00:00","oem153.inf","True"

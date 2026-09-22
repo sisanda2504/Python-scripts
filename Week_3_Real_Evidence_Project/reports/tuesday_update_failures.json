@@ -1,0 +1,70 @@
+{
+  "events_analyzed": 30,
+  "malformed_events": 0,
+  "error_counts": {
+    "0X80073D02": 27,
+    "0X80240016": 3
+  },
+  "package_counts": {
+    "5319275A.WhatsAppDesktop": 12,
+    "Microsoft.YourPhone": 6,
+    "Microsoft.ScreenSketch": 6,
+    "Microsoft.WindowsAppRuntime.2": 2,
+    "Microsoft.WindowsNotepad": 2,
+    "MicrosoftWindows.CrossDevice": 1,
+    "Microsoft.WindowsAppRuntime.1.8": 1
+  },
+  "package_error_pairs": [
+    {
+      "package": "5319275A.WhatsAppDesktop",
+      "error_code": "0X80073D02",
+      "count": 12
+    },
+    {
+      "package": "Microsoft.YourPhone",
+      "error_code": "0X80073D02",
+      "count": 6
+    },
+    {
+      "package": "Microsoft.ScreenSketch",
+      "error_code": "0X80073D02",
+      "count": 6
+    },
+    {
+      "package": "Microsoft.WindowsAppRuntime.2",
+      "error_code": "0X80240016",
+      "count": 2
+    },
+    {
+      "package": "Microsoft.WindowsNotepad",
+      "error_code": "0X80073D02",
+      "count": 2
+    },
+    {
+      "package": "MicrosoftWindows.CrossDevice",
+      "error_code": "0X80073D02",
+      "count": 1
+    },
+    {
+      "package": "Microsoft.WindowsAppRuntime.1.8",
+      "error_code": "0X80240016",
+      "count": 1
+    }
+  ],
+  "findings": [
+    {
+      "error_code": "0X80073D02",
+      "count": 27,
+      "name": "ERROR_PACKAGES_IN_USE",
+      "meaning": "The package could not install because resources it modifies were in use.",
+      "recommended_check": "Close the affected app/process and retry the update."
+    },
+    {
+      "error_code": "0X80240016",
+      "count": 3,
+      "name": "WU_E_INSTALL_NOT_ALLOWED",
+      "meaning": "Another installation was in progress or a mandatory restart was pending.",
+      "recommended_check": "Check for another update/install operation and pending restart state."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+=== Python locations ===
+C:\Users\sisan\AppData\Local\Microsoft\WindowsApps\python.exe
+
+=== Python launcher locations ===
+INFO: Could not find files for the given pattern(s).
+
+=== Installed Python interpreters ===
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== Python version ===
+Python 3.11.9
+
+=== pip locations ===
+C:\Users\sisan\AppData\Local\Microsoft\WindowsApps\pip.exe
+
+=== pip version ===
+pip 26.2.1 from C:\Users\sisan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pip (python 3.11)
+
+=== Git locations ===
+C:\Program Files\Git\cmd\git.exe
+
+=== Git version ===
+git version 2.49.0.windows.1
+
+=== Node locations ===
+C:\nvm4w\nodejs\node.exe
+
+=== Node version ===
+v20.19.4
+
+=== npm version ===
+11.3.0
+
+=== Java locations ===
+C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+
+=== Java version ===
+java version "21.0.6" 2025-01-21 LTS
+Java(TM) SE Runtime Environment (build 21.0.6+8-LTS-188)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.6+8-LTS-188, mixed mode, sharing)

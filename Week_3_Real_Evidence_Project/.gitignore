@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+logs/*.log
+
+# Raw Windows evidence can contain local usernames, paths and machine details.
+evidence_raw/
+Week_3_Targeted_Investigation/
+Week_3_Real_Evidence/
+
+# Controlled benchmark temporary files should never be committed.
+week3_io_*.tmp
